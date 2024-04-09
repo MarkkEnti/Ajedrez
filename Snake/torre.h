@@ -1,0 +1,2 @@
+#pragma once
+void torre(int fila, int columna, int fila2, int columna2, string Tablero[9][9], bool &path, bool &cambio, bool& enroqueizquierdaN, bool& enroquederechaN, bool& enroqueizquierda, bool& enroquederecha);

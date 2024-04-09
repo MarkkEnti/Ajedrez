@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Snake.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  alfil.cpp
+  main.cpp
+C:\Users\markb\Desktop\ENTI\Deberes2024\SNAKE\AA1_Snake_Proyecto2\AA1_Snake_Proyecto2\Snake\Snake\Snake\main.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  peo.cpp
+  reina.cpp
+  Generating Code...
+  LINK : C:\Users\markb\Desktop\ENTI\Deberes2024\SNAKE\AA1_Snake_Proyecto2\AA1_Snake_Proyecto2\Snake\Snake\x64\Debug\Escacs.exe not found or not built by the last incremental link; performing full link
+  Snake.vcxproj -> C:\Users\markb\Desktop\ENTI\Deberes2024\SNAKE\AA1_Snake_Proyecto2\AA1_Snake_Proyecto2\Snake\Snake\x64\Debug\Escacs.exe
